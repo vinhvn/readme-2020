@@ -1,8 +1,10 @@
 # vinhvn
 
-<img src="https://img.shields.io/badge/latest%20major%20release-jan.%202000-blueviolet" />
-<img src="https://visitor-badge.glitch.me/badge?page_id=vinhvn.vinhvn" />
-<img src="https://img.shields.io/badge/code%20quality-i%20do%20my%20best-limegreen" />
+<p align="center">
+  <img src="https://img.shields.io/badge/latest%20major%20release-jan.%202000-blueviolet" />
+  <img src="https://visitor-badge.glitch.me/badge?page_id=vinhvn.vinhvn" />
+  <img src="https://img.shields.io/badge/code%20quality-i%20do%20my%20best-limegreen" />
+</p>
 
 ## hello hello
 
@@ -19,4 +21,4 @@ I'm a third year undergrad student [@carletonuniversity](https://carleton.ca/) s
 
 ## how to reach me
 
-<img src="https://img.shields.io/badge/email-me%40vinhnguyen.ca-indianred" />
+<a href="mailto:me@vinhnguyen.ca"><img src="https://img.shields.io/badge/email-me%40vinhnguyen.ca-indianred" /></a>
