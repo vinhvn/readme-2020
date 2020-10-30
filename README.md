@@ -21,4 +21,4 @@ I'm a third year undergrad student [@carletonuniversity](https://carleton.ca/) s
 
 ### how to reach me
 
-<a href="mailto:me@vinhnguyen.ca"><img src="https://img.shields.io/badge/email-me%40vinhnguyen.ca-indianred" /></a>
+<a href="mailto:vinhhnguyen@cmail.carleton.ca"><img src="https://img.shields.io/badge/email-vinhhnguyen%40cmail.carleton.ca-indianred" /></a>
