@@ -15,7 +15,6 @@ I'm a third year undergrad student [@carletonuniversity](https://carleton.ca/) s
 ### i'm currently learning
 
 - Vue
-- GraphQL
 - React Native
 - JavaScript
 
